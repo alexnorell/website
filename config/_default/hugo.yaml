@@ -54,7 +54,7 @@ markup:
     tabWidth: 4
   goldmark:
     renderer:
-      hardWraps: false
+      hardWraps: true
       unsafe: false
       xhtml: false
     parser:

@@ -33,6 +33,7 @@ hidden: True
 ## Experience
 
 ### Roboflow
+
 **Location:** San Francisco, CA
 **Title:** Infrastructure Engineer
 **Dates:** September 2024 - Present
@@ -42,6 +43,7 @@ hidden: True
 - Built and deployed in a multi-cloud environment using AWS and GCP
 
 ### Semiotic Labs - Odos.xyz
+
 **Location:** Los Altos, CA
 **Title:** Lead Infrastructure Software Engineer
 **Dates:** April 2022 - February 2024
@@ -56,6 +58,7 @@ hidden: True
 - Built monitoring, alerting, and observability with CloudWatch and BetterUptime.
 
 ### NVIDIA
+
 **Location:** Santa Clara, CA
 **Title:** Infrastructure Software Engineer, Deep Learning Libraries
 **Dates:** August 2021 - April 2022
@@ -64,8 +67,8 @@ hidden: True
 - Coordinated cross-functional teams to ensure timely delivery of critical software updates and features
 
 ### Sleep Number Labs
-**Location:** San Jose, CA
 
+**Location:** San Jose, CA
 **Title:** DevOps Software Engineer
 **Dates:** April 2020 - August 2021
 
@@ -86,6 +89,7 @@ hidden: True
 ## Education
 
 ### San Jose State University
+
 **Location:** San Jose, CA
 **Degree:** B.S. Computer Engineering
 **Date:** December 2018
