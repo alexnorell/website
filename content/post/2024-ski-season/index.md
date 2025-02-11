@@ -87,7 +87,7 @@ Last day at Jackson for the year and I finally convinced Mariah to do Hoback wit
 
 #### Week 4
 
-We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to dissapoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain.
+We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to dissapoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain. Alta and Snowbird are always amazing and I love every chance I get to ski them.
 
 {{< expandable-box title="February 5 - Park City, UT" vert="12,284ft" >}}
 A huge storm rolled through a dumped over a foot and more was coming down when I was there. Visibility was very low at the bottom of the mountain and I worked my way up to explore some of the expert terrain. I found a couple of good powder stashes off of Pioneer before making my way over to Jupiter. The terrain here was what I was looking for, steep with some good untouched powder. I definitly want to go back and explore the rest of Park City for the steeps and deeps.
@@ -119,6 +119,8 @@ On our way out of Utah we did a big split day between Park City and Deer Valley.
 
 #### Week 5
 
+Colorado skiing is great when you're not doing the I70 commute to and from Denver. Steamboat was a lot of fun to show Mariah and spending more time in Aspen was fun as well. There is a reason why it is cheaper to go to Europe than Colorado for a ski vacation though. Spending time in these flagship properties makes me appreiciate the more laid-back California resorts.
+
 {{< expandable-box title="February 12 - Steamboat, CO" vert="9,314ft" >}}
 First Official day of unemployment and the start of the Colorado part of our trip. This was a recovery day from our big day yesterday and we were only on the mountain for 2 hours.
 {{< /expandable-box >}}
@@ -149,6 +151,8 @@ Second day for our friend skiing was at beautiful Buttermilk. The mountain is kn
 
 #### Week 6
 
+Another Week in Colorado, but this time taking the southern route, exploring in Crested Butte and Telluride for first time. Both of these places are beautiful and made getting the Epic pass worth it.
+
 {{< expandable-box title="February 19 - Breckenridge, CO" vert="11,506ft" >}}
 Bonus day skiing at Breckenridge! It was an absolutely beautiful day. Got a nice run in on Peak Seven Bowl with some fresh turns in fresh snow.
 {{< /expandable-box >}}
@@ -178,6 +182,8 @@ Last day in Telluride and I spent most of it lapping some fast groomers and taki
 {{< /expandable-box >}}
 
 #### Week 7
+
+The last week in Colorado, and tons of stuff went sidewise, from storms shutting down resorts, to avalanches shutting down highways. I even broke my skis. 
 
 {{< expandable-box title="February 26 - Purgatory, CO" vert="15,914ft" >}}
 I wanted to try a different, smaller resort, and since I was already in south western Colorado, Purgatory made sense to visit. The mountain was okay. I spent my day looking for steep things to ski that weren't super icy. Found myself over on Legends Express for most of the morning, and then lapping Purgatory Express for the rest of the day. There were some fun runs here, but nothing that makes me want to go back. The terrain was pretty boring in comparison to the amazing stuff I had been skiing all week.
@@ -216,6 +222,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 #### Week 8
 
+First week in Canada and exploring some new mountains and some old favorites. Lucked out with some amazing snow as well.
+
 {{< expandable-box title="March 4 - Fernie, BC" vert="" >}}
 
 {{< /expandable-box >}}
@@ -245,6 +253,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 {{< /expandable-box >}}
 
 #### Week 9
+
+The week I was waiting for all trip. I found a new favorite mountain and explored even more of one of my other favorites.
 
 {{< expandable-box title="March 11 - Kicking Horse, BC" vert="" >}}
 
@@ -276,6 +286,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 #### Week 10
 
+Third week in Canada and a couple new mountains. Saying goodbye to Revelstoke was hard, but saying hello to Whistler was amazing. I grew up going to Whistler in the summer, but never had the chance to go skiing there. The mountain is amazing and I lucked out with multiple powder days during our stay there.
+
 {{< expandable-box title="March 18 - Revelstoke, BC" vert="" >}}
 
 {{< /expandable-box >}}
@@ -302,6 +314,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 #### Week 11
 
+More Whistler, heading home to the USA, and a trip to Alaska! We had never been to Alaska and we were really excited to get up and check out Alyeska.
+
 {{< expandable-box title="March 25 - Whistler, BC" vert="" >}}
 
 {{< /expandable-box >}}
@@ -324,6 +338,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 #### Week 12
 
+Final days of Alaska and some skiing in the PNW.
+
 {{< expandable-box title="April 1 - Alyeska, AK" vert="" >}}
 
 {{< /expandable-box >}}
@@ -342,6 +358,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 #### Week 13
 
+Finals week of the road trip and a stop in Bend for a few days at Bachelor on the way home.
+
 {{< expandable-box title="April 8 - Mount Bachelor, OR" vert="" >}}
 
 {{< /expandable-box >}}
@@ -356,6 +374,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 
 ### Long Weekend in Tahoe
+
+The goal was to get all the skiing in at each resort before they shut down for the season. I missed going to Northstar by one day, by flipping which mountain I went to that Sunday. Ended up having a blast though.
 
 {{< expandable-box title="April 12 - Kirkwood, CA" vert="" >}}
 
@@ -374,6 +394,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 {{< /expandable-box >}}
 
 ### Trip to Utah
+
+Mariah had a conference in Utah she needed to go to, so I tagged along to get a few more days in Utah. We ended up catching a huge late season storm on our way back to California which was great.
 
 {{< expandable-box title="April 28 - Alpine Meadows, CA" vert="" >}}
 
@@ -400,6 +422,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 {{< /expandable-box >}}
 
 ### Mammoth
+
+End of the season with a spring day in Mammoth.
 
 {{< expandable-box title="May 16 - Mammoth, CA" vert="" >}}
 
