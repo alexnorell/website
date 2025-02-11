@@ -6,6 +6,8 @@ tags:
   - security
   - ctf
   - iot
+categories:
+  - security
 images:
   - images/rack.jpg
   - images/results.png

@@ -7,7 +7,7 @@ tags:
   - s3
   - cloudfront
 categories:
-  - aws
+  - infrastructure
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: Creating and Deploying This Website
 summary: A detailed explanation on how this website is generated and hosted.
 categories:
-  - web
+  - infrastructure
 tags:
   - hugo
   - nginx

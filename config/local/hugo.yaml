@@ -2,3 +2,4 @@
 theme: hugo-theme-m10c
 
 buildDrafts: true
+buildFuture: true

@@ -8,7 +8,7 @@ tags:
   - domain name
   - s3
 categories:
-  - aws
+  - infrastructure
 draft: false
 ---
 

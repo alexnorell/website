@@ -49,7 +49,7 @@ markup:
     lineNos: false
     lineNumbersInTable: true
     noClasses: true
-    style: dracula
+    style: vulcan
     tabWidth: 4
   goldmark:
     renderer:
@@ -100,3 +100,5 @@ params:
     primaryColor: "#2F81F7"
 
   goatcounter: https://stats.alexnorell.com/aq6ku
+
+enableEmoji: true

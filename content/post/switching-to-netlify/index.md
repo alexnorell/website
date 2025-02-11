@@ -3,7 +3,7 @@ title: "Switching to Netlify for static hosting"
 date: 2020-08-16T12:59:51-07:00
 draft: false
 categories:
-  - web
+  - website
 tags:
   - hugo
   - netlify

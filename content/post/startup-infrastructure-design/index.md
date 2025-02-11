@@ -3,8 +3,10 @@ title: "Interview: Startup Infrastructure Design"
 date: 2021-05-29T09:57:26-07:00
 draft: false
 tags:
- - AWS
- - CI/CD
+- AWS
+- CI/CD
+categories:
+- infrastructure
 description: This interview question addresses managing cloud infrastructure, security, and auditing using AWS services for their integration and efficiency. For version control, code should be managed in Git and hosted on platforms like GitHub, with a GitHub Flow development style and strict code review processes to maintain quality. For infrastructure, AWS CloudFormation or Terraform can automate deployment and configuration, while AWS CloudWatch handles monitoring. Security is bolstered by tools like Dependabot for dependency scanning, AWS WAF for web application security, and AWS Audit Manager for compliance. Regarding the build vs. buy decision, I recommend opting for managed services to focus on product development rather than custom solutions. The CI/CD pipeline on AWS would use services like CodePipeline and CodeCommit, deploying a React frontend via CloudFront, managing user authentication through Cognito, and handling backend requests with API Gateway and Lambda. The ElasticSearch cluster would utilize appropriately sized AWS instances for scalability and fault tolerance.
 ---
 

@@ -8,6 +8,8 @@ tags:
 - home
 - audio
 - video
+categories:
+- house
 images:
 - images/front.jpeg
 - images/back.jpeg
