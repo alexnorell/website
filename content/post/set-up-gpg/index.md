@@ -406,7 +406,7 @@ Approve the prompts and your primary private key will be deleted from GPG.
 Clean up the private key files by running the following command from your working directory.
 
 ```sh
-rm ./*-private.gpg
+shred -uzv ./*-private.gpg
 ```
 
 Everything is cleaned up and backed up. GPG is fully configured and ready for you to start using.
