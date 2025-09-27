@@ -49,7 +49,7 @@ It was a rainy day at Palisades, with my gloves soaking through around noon. The
 
 We made it over to Driggs for our annual Grand Targhee trip.
 
-{{< image-gallery images="images/2024-01-27_grand_targhee_wy.webp|Grand Targhee|View from Grand Targhee" >}}
+{{< image-gallery images="images/2024-01-27_grand_targhee_wy.webp|Grand Targhee|View from Grand Targhee,images/2024-01-28_truck_jackson_hole_wy.webp|Truck in front of Jackson Hole|Truck in front of Jackson Hole" >}}
 
 {{< expandable-box title="January 27 - Grand Targhee, WY" vert="14,966ft" >}}
 Most of the day was spent lapping Blackfoot. It was pretty foggy on the top of the mountain and the trees off Blackfoot held the fog off.
@@ -93,7 +93,7 @@ Last day at Jackson for the year and I finally convinced Mariah to do Hoback wit
 
 We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to dissapoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain. Alta and Snowbird are always amazing and I love every chance I get to ski them.
 
-{{< image-gallery images="images/2024-02-09_snowbird_ut.webp|Snowbird|View from Snowbird" >}}
+{{< image-gallery images="images/2024-02-09_snowbird_ut.webp|Snowbird|View from Snowbird,images/2024-02-10_truck_alta_ut.webp|Truck in front of Alta|Truck in front of Alta" >}}
 
 {{< expandable-box title="February 5 - Park City, UT" vert="12,284ft" >}}
 A huge storm rolled through a dumped over a foot and more was coming down when I was there. Visibility was very low at the bottom of the mountain and I worked my way up to explore some of the expert terrain. I found a couple of good powder stashes off of Pioneer before making my way over to Jupiter. The terrain here was what I was looking for, steep with some good untouched powder. I definitly want to go back and explore the rest of Park City for the steeps and deeps.
@@ -195,7 +195,7 @@ Last day in Telluride and I spent most of it lapping some fast groomers and taki
 
 The last week in Colorado, and tons of stuff went sidewise, from storms shutting down resorts, to avalanches shutting down highways. I even broke my skis.
 
-{{< image-gallery images="images/2024-02-27_keystone_co.webp|Storm over Taos Valley|Dark storm clouds over the Taos Valley area" >}}
+{{< image-gallery images="images/2024-02-27_keystone_co.webp|Storm over Taos Valley|Dark storm clouds over the Taos Valley area,images/2024-03-01_truck_arapahoe_basin_co.webp|Truck in front of Arapahoe Basin|Truck in front of Arapahoe Basin" >}}
 
 {{< expandable-box title="February 26 - Purgatory, CO" vert="15,914ft" >}}
 I wanted to try a different, smaller resort, and since I was already in south western Colorado, Purgatory made sense to visit. The mountain was okay. I spent my day looking for steep things to ski that weren't super icy. Found myself over on Legends Express for most of the morning, and then lapping Purgatory Express for the rest of the day. There were some fun runs here, but nothing that makes me want to go back. The terrain was pretty boring in comparison to the amazing stuff I had been skiing all week.
@@ -270,7 +270,7 @@ Another day great day at Lake Louise. Snow wasn't as good, but still had a lot o
 
 The week I was waiting for all trip. I found a new favorite mountain and explored even more of one of my other favorites.
 
-{{< image-gallery images="images/2024-03-11_kicking_horse_bc.webp|Top of T1 - Kicking Horse|View from Kicking Horse,images/2024-03-12_kicking_horse_bc.webp|Stairway to Heaven - Kicking Horse|View from Kicking Horse,images/2024-03-16_revelstoke_bc.webp|Ice burn - Revelstoke|View from Revelstoke,images/2024-03-17_revelstoke_bc.webp|Top of Subpeak - Revelstoke|View from Revelstoke" >}}
+{{< image-gallery images="images/2024-03-11_kicking_horse_bc.webp|Top of T1 - Kicking Horse|View from Kicking Horse,images/2024-03-12_kicking_horse_bc.webp|Stairway to Heaven - Kicking Horse|View from Kicking Horse,images/2024-03-16_revelstoke_bc.webp|Ice burn - Revelstoke|View from Revelstoke,images/2024-03-17_revelstoke_bc.webp|Top of Subpeak - Revelstoke|View from Revelstoke,images/2024-03-17_truck_revelstoke_bc.webp|Truck in front of Revelstoke|Truck in front of Revelstoke" >}}
 
 {{< expandable-box title="March 11 - Kicking Horse, BC" vert="23,814ft" >}}
 Kicking Horse is everything I want in a mountain and more. Top to bottom, great skiing. Amazing Chutes. Amazing Snow on top. No lines. Also, met the Slopes developer on the gondola.
@@ -421,6 +421,8 @@ Short day hitting some late season turns.
 ### Trip to Utah
 
 Mariah had a conference in Utah she needed to go to, so I tagged along to get a few more days in Utah. We ended up catching a huge late season storm on our way back to California which was great.
+
+{{< image-gallery images="images/2024-05-05_palisades_ca.webp|Surprise California Pow|Nearly 10 inches,images/2024-05-05_palisades_ca_2.webp|Fresh powder - Palisades|So deep" >}}
 
 {{< expandable-box title="April 28 - Alpine Meadows, CA" vert="11,786ft" >}}
 End of the season for Alpine celebration. Just some groomers before heading out to Utah.
