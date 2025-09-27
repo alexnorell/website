@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub on Alex Norell</title><link>https://alexnorell.com/tags/github/</link><description>Recent content in GitHub on Alex Norell</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 12:00:00 -0700</lastBuildDate><atom:link href="https://alexnorell.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Set Up YubiKey On macOS</title><link>https://alexnorell.com/post/set-up-yubikey/</link><pubDate>Tue, 30 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-yubikey/</guid><description>This is a follow up to the How To Set Up GPG on macOS guide We&amp;rsquo;ll build on the GPG key configuration to move the storage off the machine itself to a physical key. We&amp;rsquo;ll also cover setting up the YubiKey for other services and uses, like WebAuthn.
-By the end of the guide you will:
-Disable YubiKey OTP Move GPG keys to a YubiKey Disable the macOS Smart Card prompt Add a YubiKey to Web Services Disable SMS Authentication Some requirements:</description></item><item><title>How To Set Up GPG On macOS</title><link>https://alexnorell.com/post/set-up-gpg/</link><pubDate>Mon, 29 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-gpg/</guid><description>This guide covers everything you need for setting up GPG on macOS for software development. By the end of this guide, you will accomplish the following:
-Create a primary GPG key Create an authentication key for use with SSH Create a signing key for git commit signatures Deploy these keys to GitHub Remove the primary private key to follow best practices Some requirements:
-You have brew installed You have a password manager set up What is GPG GNU Privacy Guard (GPG) is an encryption software that enables secure communication and data storage.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub on Alex Norell</title><link>https://alexnorell.com/tags/github/</link><description>Recent content in GitHub on Alex Norell</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 12:00:00 -0700</lastBuildDate><atom:link href="https://alexnorell.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Set Up YubiKey On macOS</title><link>https://alexnorell.com/post/set-up-yubikey/</link><pubDate>Tue, 30 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-yubikey/</guid><description>&lt;p&gt;This is a follow up to the &lt;a href="https://alexnorell.com/post/set-up-gpg"&gt;How To Set Up GPG on macOS&lt;/a&gt; guide We&amp;rsquo;ll build on the GPG key configuration to move the storage off the machine itself to a physical key. We&amp;rsquo;ll also cover setting up the YubiKey for other services and uses, like WebAuthn.&lt;/p&gt;
+&lt;p&gt;By the end of the guide you will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disable YubiKey OTP&lt;/li&gt;
+&lt;li&gt;Move GPG keys to a YubiKey&lt;/li&gt;
+&lt;li&gt;Disable the macOS Smart Card prompt&lt;/li&gt;
+&lt;li&gt;Add a YubiKey to Web Services&lt;/li&gt;
+&lt;li&gt;Disable SMS Authentication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some requirements:&lt;/p&gt;</description></item><item><title>How To Set Up GPG On macOS</title><link>https://alexnorell.com/post/set-up-gpg/</link><pubDate>Mon, 29 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-gpg/</guid><description>&lt;p&gt;This guide covers everything you need for setting up GPG on macOS for software development. By the end of this guide, you will accomplish the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a primary GPG key&lt;/li&gt;
+&lt;li&gt;Create an authentication key for use with SSH&lt;/li&gt;
+&lt;li&gt;Create a signing key for git commit signatures&lt;/li&gt;
+&lt;li&gt;Deploy these keys to GitHub&lt;/li&gt;
+&lt;li&gt;Remove the primary private key to follow best practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have &lt;code&gt;brew&lt;/code&gt; installed&lt;/li&gt;
+&lt;li&gt;You have a password manager set up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="what-is-gpg"&gt;What is GPG&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://gnupg.org/"&gt;GNU Privacy Guard&lt;/a&gt; (GPG) is an encryption software that enables secure communication and data storage. It is an implementation of the &lt;a href=""&gt;OpenPGP&lt;/a&gt; standard, but has become the defacto standard implementation. GPG uses a hybrid approach combining symmetric-key cryptography for speed and public-key cryptography for secure key exchange. can utilize GPG for signing and verifying documents, encrypting emails, and safeguarding files. Secure email providers like &lt;a href="https://proton.me"&gt;Proton Mail&lt;/a&gt; use it for encryption of emails and files.&lt;/p&gt;</description></item></channel></rss>

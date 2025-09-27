@@ -1,3 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>YubiKey on Alex Norell</title><link>https://alexnorell.com/tags/yubikey/</link><description>Recent content in YubiKey on Alex Norell</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 12:00:00 -0700</lastBuildDate><atom:link href="https://alexnorell.com/tags/yubikey/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Set Up YubiKey On macOS</title><link>https://alexnorell.com/post/set-up-yubikey/</link><pubDate>Tue, 30 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-yubikey/</guid><description>This is a follow up to the How To Set Up GPG on macOS guide We&amp;rsquo;ll build on the GPG key configuration to move the storage off the machine itself to a physical key. We&amp;rsquo;ll also cover setting up the YubiKey for other services and uses, like WebAuthn.
-By the end of the guide you will:
-Disable YubiKey OTP Move GPG keys to a YubiKey Disable the macOS Smart Card prompt Add a YubiKey to Web Services Disable SMS Authentication Some requirements:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>YubiKey on Alex Norell</title><link>https://alexnorell.com/tags/yubikey/</link><description>Recent content in YubiKey on Alex Norell</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 12:00:00 -0700</lastBuildDate><atom:link href="https://alexnorell.com/tags/yubikey/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Set Up YubiKey On macOS</title><link>https://alexnorell.com/post/set-up-yubikey/</link><pubDate>Tue, 30 Jul 2024 12:00:00 -0700</pubDate><guid>https://alexnorell.com/post/set-up-yubikey/</guid><description>&lt;p&gt;This is a follow up to the &lt;a href="https://alexnorell.com/post/set-up-gpg"&gt;How To Set Up GPG on macOS&lt;/a&gt; guide We&amp;rsquo;ll build on the GPG key configuration to move the storage off the machine itself to a physical key. We&amp;rsquo;ll also cover setting up the YubiKey for other services and uses, like WebAuthn.&lt;/p&gt;
+&lt;p&gt;By the end of the guide you will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disable YubiKey OTP&lt;/li&gt;
+&lt;li&gt;Move GPG keys to a YubiKey&lt;/li&gt;
+&lt;li&gt;Disable the macOS Smart Card prompt&lt;/li&gt;
+&lt;li&gt;Add a YubiKey to Web Services&lt;/li&gt;
+&lt;li&gt;Disable SMS Authentication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some requirements:&lt;/p&gt;</description></item></channel></rss>
