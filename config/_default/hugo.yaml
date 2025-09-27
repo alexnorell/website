@@ -2,7 +2,8 @@ baseURL: https://alexnorell.com/
 languageCode: en-us
 title: Alex Norell
 enableGitInfo: True
-paginate: 10
+pagination:
+  pagerSize: 100
 
 frontmatter:
   date:
@@ -23,22 +24,22 @@ frontmatter:
 
 menu:
   main:
-  - identifier: home
-    name: Home
-    url: /
-    weight: 1
-  - identifier: about
-    name: About
-    url: /about/
-    weight: 2
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 3
-  - identifier: tags
-    name: Tags
-    url: /tags/
-    weight: 4
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 4
 
 markup:
   highlight:
@@ -53,7 +54,7 @@ markup:
     tabWidth: 4
   goldmark:
     renderer:
-      hardWraps: false
+      hardWraps: true
       unsafe: false
       xhtml: false
     parser:
@@ -75,7 +76,7 @@ params:
       url: "https://github.com/alexnorell"
       title: GitHub
     - icon: linkedin
-      url : "https://linkedin.com/in/alexnorell"
+      url: "https://linkedin.com/in/alexnorell"
       title: LinkedIn
     - icon: youtube
       url: "https://youtube.com/alexnorell"
@@ -83,7 +84,7 @@ params:
     - icon: rss
       url: "/post/index.xml"
       title: RSS
-  
+
   # Dracula
   # style:
   #   darkestColor: '#282a36'
@@ -93,7 +94,7 @@ params:
   #   lightestColor: '#50fa7b'
 
   style:
-    darkestColor: '#161B22'
+    darkestColor: "#161B22"
     darkColor: "#0D1117"
     lightColor: "#E6EDF3"
     lightestColor: "#FFFFFF"
