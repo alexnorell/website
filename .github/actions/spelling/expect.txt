@@ -3,12 +3,14 @@ Akitio
 alex
 alexnorell
 alta
+alyeska
 Alyeska
 Altabird
 Altera
 Americ
 Asus
 Automator
+arapahoe
 Arapahoe
 avz
 banff
@@ -85,6 +87,7 @@ KDF
 keygrip
 keytocard
 Kimpton
+kirkwood
 Kirkwood
 kinda
 Lenawee
@@ -104,6 +107,7 @@ netlify
 nfc
 Nintendo
 norell
+norquay
 Norquay
 Northstar
 northface
@@ -173,6 +177,7 @@ ubuntu
 UIF
 usb
 utterences
+uzv
 Viewline
 Vistana
 volkl

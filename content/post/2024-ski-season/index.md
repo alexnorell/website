@@ -61,7 +61,7 @@ This was the first time I was able to take my dad to Jackson Hole. We brought th
 
 #### Week 3
 
-We did one more day at Grand Targhee before parting ways with the group. We headed to Jackson to stay in town for the week and the rest of the group headed back to Boise. Jackson was just a pleasing as we remembered it and we even ended up going to a [Moose](https://snowkingsec.com/moose-hockey/) game. The town is such a weird place, with finance bros wearing cowboy hats and coastal people flying in to experience the _"rugged west"_.
+We did one more day at Grand Targhee before parting ways with the group. We headed to Jackson to stay in town for the week and the rest of the group headed back to Boise. Jackson was just a pleasing as we remembered it and we even ended up going to a [Moose](https://snowkingsec.com/moose-hockey/) game. The town is such a weird place, with finance bros wearing cowboy hats and coastal people flying into experience the _"rugged west"_.
 
 {{< image-gallery images="images/2024-01-29_grand_targhee_wy.webp|AirBNB View|View of Grand Targhee,images/2024-01-31_jackson_hole_wy.webp|Ice skating in Jackson|Enjoying the pretty lights,images/2024-02-02_jackson_hole_wy.webp|Beacon training|Learning how to use a beacon by using a training section at Jackson Hole Mountain Resort" >}}
 
@@ -351,7 +351,7 @@ Another huge day. Fresh snow, and a lot of laps. Everything on the Whistler side
 First day in Alaska. Absolutely amazing conditions. Got two amazing tram laps before calling it for the day.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 31 - Alyeksa, AK" vert="13,271ft" >}}
+{{< expandable-box title="March 31 - Alyeska, AK" vert="13,271ft" >}}
 Nonstop pow. Every run was down the tramline. Every line had fresh snow.
 {{< /expandable-box >}}
 
@@ -429,7 +429,7 @@ End of the season for Alpine celebration. Just some groomers before heading out 
 {{< /expandable-box >}}
 
 {{< expandable-box title="May 1 - Snowbird, UT" vert="30,737ft" >}}
-Huge, bluebird day at the the bird! Got a little bit of everything in.
+Huge, bluebird day at the bird! Got a little bit of everything in.
 {{< /expandable-box >}}
 
 {{< expandable-box title="May 2 - Snowbird and Solitude, UT" vert="25,288ft" >}}
