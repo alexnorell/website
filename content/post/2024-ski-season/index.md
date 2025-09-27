@@ -6,7 +6,7 @@ categories:
 tags:
   - Ikon
   - Epic
-draft: true
+draft: false
 description: A recap of the 2024 ski season including mountains visited, gear changed, and travel notes.
 ---
 
@@ -49,6 +49,8 @@ It was a rainy day at Palisades, with my gloves soaking through around noon. The
 
 We made it over to Driggs for our annual Grand Targhee trip.
 
+{{< image-gallery images="images/2024-01-27_grand_targhee_wy.webp|Grand Targhee|View from Grand Targhee" >}}
+
 {{< expandable-box title="January 27 - Grand Targhee, WY" vert="14,966ft" >}}
 Most of the day was spent lapping Blackfoot. It was pretty foggy on the top of the mountain and the trees off Blackfoot held the fog off.
 {{< /expandable-box >}}
@@ -60,6 +62,8 @@ This was the first time I was able to take my dad to Jackson Hole. We brought th
 #### Week 3
 
 We did one more day at Grand Targhee before parting ways with the group. We headed to Jackson to stay in town for the week and the rest of the group headed back to Boise. Jackson was just a pleasing as we remembered it and we even ended up going to a [Moose](https://snowkingsec.com/moose-hockey/) game. The town is such a weird place, with finance bros wearing cowboy hats and coastal people flying in to experience the _"rugged west"_.
+
+{{< image-gallery images="images/2024-01-29_grand_targhee_wy.webp|AirBNB View|View of Grand Targhee,images/2024-01-31_jackson_hole_wy.webp|Ice skating in Jackson|Enjoying the pretty lights,images/2024-02-02_jackson_hole_wy.webp|Beacon training|Learning how to use a beacon by using a training section at Jackson Hole Mountain Resort" >}}
 
 {{< expandable-box title="January 29 - Grand Targhee, WY" vert="32,697ft" >}}
 Final day in Targhee with the group. I got my highest recorded speed on skis here at 58 MPH when lapping the groomers off of the Colter lift.
@@ -88,6 +92,8 @@ Last day at Jackson for the year and I finally convinced Mariah to do Hoback wit
 #### Week 4
 
 We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to dissapoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain. Alta and Snowbird are always amazing and I love every chance I get to ski them.
+
+{{< image-gallery images="images/2024-02-09_snowbird_ut.webp|Snowbird|View from Snowbird" >}}
 
 {{< expandable-box title="February 5 - Park City, UT" vert="12,284ft" >}}
 A huge storm rolled through a dumped over a foot and more was coming down when I was there. Visibility was very low at the bottom of the mountain and I worked my way up to explore some of the expert terrain. I found a couple of good powder stashes off of Pioneer before making my way over to Jupiter. The terrain here was what I was looking for, steep with some good untouched powder. I definitly want to go back and explore the rest of Park City for the steeps and deeps.
@@ -121,6 +127,8 @@ On our way out of Utah we did a big split day between Park City and Deer Valley.
 
 Colorado skiing is great when you're not doing the I70 commute to and from Denver. Steamboat was a lot of fun to show Mariah and spending more time in Aspen was fun as well. There is a reason why it is cheaper to go to Europe than Colorado for a ski vacation though. Spending time in these flagship properties makes me appreiciate the more laid-back California resorts.
 
+{{< image-gallery images="images/2024-02-14_copper_co.webp|Copper|View from Copper,images/2024-02-17_aspen_highlands_co.webp|Aspen Highlands|View from Aspen Highlands" >}}
+
 {{< expandable-box title="February 12 - Steamboat, CO" vert="9,314ft" >}}
 First Official day of unemployment and the start of the Colorado part of our trip. This was a recovery day from our big day yesterday and we were only on the mountain for 2 hours.
 {{< /expandable-box >}}
@@ -153,6 +161,8 @@ Second day for our friend skiing was at beautiful Buttermilk. The mountain is kn
 
 Another Week in Colorado, but this time taking the southern route, exploring in Crested Butte and Telluride for first time. Both of these places are beautiful and made getting the Epic pass worth it.
 
+{{< image-gallery images="images/2024-02-23_telluride_co.webp|Telluride|View from Telluride" >}}
+
 {{< expandable-box title="February 19 - Breckenridge, CO" vert="11,506ft" >}}
 Bonus day skiing at Breckenridge! It was an absolutely beautiful day. Got a nice run in on Peak Seven Bowl with some fresh turns in fresh snow.
 {{< /expandable-box >}}
@@ -184,6 +194,8 @@ Last day in Telluride and I spent most of it lapping some fast groomers and taki
 #### Week 7
 
 The last week in Colorado, and tons of stuff went sidewise, from storms shutting down resorts, to avalanches shutting down highways. I even broke my skis.
+
+{{< image-gallery images="images/2024-02-27_keystone_co.webp|Storm over Taos Valley|Dark storm clouds over the Taos Valley area" >}}
 
 {{< expandable-box title="February 26 - Purgatory, CO" vert="15,914ft" >}}
 I wanted to try a different, smaller resort, and since I was already in south western Colorado, Purgatory made sense to visit. The mountain was okay. I spent my day looking for steep things to ski that weren't super icy. Found myself over on Legends Express for most of the morning, and then lapping Purgatory Express for the rest of the day. There were some fun runs here, but nothing that makes me want to go back. The terrain was pretty boring in comparison to the amazing stuff I had been skiing all week.
@@ -224,6 +236,8 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 First week in Canada and exploring some new mountains and some old favorites. Lucked out with some amazing snow as well.
 
+{{< image-gallery images="images/2024-03-07_mount_norquay_ab.webp|Mount Norquay|View from Mount Norquay,images/2024-03-08_banff_sunshine_ab.webp|Gate to Delerium Dive|And they were never seen again,images/2024-03-09_lake_louise_ab.webp|Ice Skating on Lake Louise|So many cracks" >}}
+
 {{< expandable-box title="March 4 - Fernie, BC" vert="10,076ft" >}}
 Pow day at Fernie. Had to call it early, so not a bunch of vert. Definitely want to go back.
 {{< /expandable-box >}}
@@ -256,6 +270,8 @@ Another day great day at Lake Louise. Snow wasn't as good, but still had a lot o
 
 The week I was waiting for all trip. I found a new favorite mountain and explored even more of one of my other favorites.
 
+{{< image-gallery images="images/2024-03-11_kicking_horse_bc.webp|Top of T1 - Kicking Horse|View from Kicking Horse,images/2024-03-12_kicking_horse_bc.webp|Stairway to Heaven - Kicking Horse|View from Kicking Horse,images/2024-03-16_revelstoke_bc.webp|Ice burn - Revelstoke|View from Revelstoke,images/2024-03-17_revelstoke_bc.webp|Top of Subpeak - Revelstoke|View from Revelstoke" >}}
+
 {{< expandable-box title="March 11 - Kicking Horse, BC" vert="23,814ft" >}}
 Kicking Horse is everything I want in a mountain and more. Top to bottom, great skiing. Amazing Chutes. Amazing Snow on top. No lines. Also, met the Slopes developer on the gondola.
 {{< /expandable-box >}}
@@ -287,6 +303,8 @@ Hiked subpeak with Mariah. Beautiful sunshine, we packed a light snack for up on
 #### Week 10
 
 Third week in Canada and a couple new mountains. Saying goodbye to Revelstoke was hard, but saying hello to Whistler was amazing. I grew up going to Whistler in the summer, but never had the chance to go skiing there. The mountain is amazing and I lucked out with multiple powder days during our stay there.
+
+{{< image-gallery images="images/2024-03-22_whistler_bc.webp|1 ski drills - Whistler|View from Whistler,images/2024-03-24_whistler_bc.webp|The Rings - Whistler|View from Whistler" >}}
 
 {{< expandable-box title="March 18 - Revelstoke, BC" vert="14,189ft" >}}
 It was pretty hot the day before and the snow had definitely solidified. Only groomers on this day. A lot of fast skiing, and even some ice burn from a fast, long fall.
@@ -341,6 +359,8 @@ Nonstop pow. Every run was down the tramline. Every line had fresh snow.
 
 Final days of Alaska and some skiing in the PNW.
 
+{{< image-gallery images="images/2024-04-02_alyeska_ak.webp|The Ocean - Alyeska|View from Alyeska,images/2024-04-05_timberline_or.webp|All the skis|View from Timberline" >}}
+
 {{< expandable-box title="April 1 - Alyeska, AK" vert="11,601ft" >}}
 More amazing snow. A lot less visibilty. Mainly lapped Glacier bowl for the faster lap times than the Tram.
 {{< /expandable-box >}}
@@ -361,6 +381,8 @@ Expored the mountain by myself. Got into some hairy situations when I accidently
 
 Finals week of the road trip and a stop in Bend for a few days at Bachelor on the way home.
 
+{{< image-gallery images="images/2024-04-09_mount_bachelor_or.webp|Top of Mount Bachelor|View from Mount Bachelor" >}}
+
 {{< expandable-box title="April 8 - Mount Bachelor, OR" vert="14,561ft" >}}
 First time skiing at Bachelor as an adult. Very fun mountain with a ton to offer. Mainly ripped groomers on my fast skis.
 {{< /expandable-box >}}
@@ -377,6 +399,8 @@ Fast groomers with some backside exploration. Blue skies and warm temps. True sp
 ### Long Weekend in Tahoe
 
 The goal was to get all the skiing in at each resort before they shut down for the season. I missed going to Northstar by one day, by flipping which mountain I went to that Sunday. Ended up having a blast though.
+
+{{< image-gallery images="images/2024-04-12_kirkwood_ca.webp|Kirkwood|View from Kirkwood,images/2024-04-13_heavenly_ca.webp|Heavenly|View from Heavenly" >}}
 
 {{< expandable-box title="April 12 - Kirkwood, CA" vert="17,198ft" >}}
 First time at Kirkwood in over a decade. Absolutely awesome mountain. Will go back a bunch when I'm in California. Did a few hike-to lines and got some pretty nice runs.
