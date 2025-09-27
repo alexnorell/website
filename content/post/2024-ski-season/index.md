@@ -16,7 +16,7 @@ description: A recap of the 2024 ski season including mountains visited, gear ch
 
 ### Road Trip
 
-We made the decission this year to do the road trip that we had been wanting to do the previous 2 years. The goal was to ski as many places as we could on our two passes and make our way up to Canada for a couple weeks. The road trip didn't have a set end date, but we had a rough plan of what we wanted to do.
+We made the decision this year to do the road trip that we had been wanting to do the previous 2 years. The goal was to ski as many places as we could on our two passes and make our way up to Canada for a couple weeks. The road trip didn't have a set end date, but we had a rough plan of what we wanted to do.
 
 1. Grand Targhee & Jackson Hole
 1. Salt Lake City & Park City
@@ -91,16 +91,16 @@ Last day at Jackson for the year and I finally convinced Mariah to do Hoback wit
 
 #### Week 4
 
-We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to dissapoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain. Alta and Snowbird are always amazing and I love every chance I get to ski them.
+We made our way down to Utah for a week, starting out in Layton and then moving down to Sandy. Utah has yet to disappoint me for snow quality and lack of lines. I was able to ski Park City for the first time, but didn't do much exploration of the huge mountain. Alta and Snowbird are always amazing and I love every chance I get to ski them.
 
 {{< image-gallery images="images/2024-02-09_snowbird_ut.webp|Snowbird|View from Snowbird,images/2024-02-10_truck_alta_ut.webp|Truck in front of Alta|Truck in front of Alta" >}}
 
 {{< expandable-box title="February 5 - Park City, UT" vert="12,284ft" >}}
-A huge storm rolled through a dumped over a foot and more was coming down when I was there. Visibility was very low at the bottom of the mountain and I worked my way up to explore some of the expert terrain. I found a couple of good powder stashes off of Pioneer before making my way over to Jupiter. The terrain here was what I was looking for, steep with some good untouched powder. I definitly want to go back and explore the rest of Park City for the steeps and deeps.
+A huge storm rolled through a dumped over a foot and more was coming down when I was there. Visibility was very low at the bottom of the mountain and I worked my way up to explore some of the expert terrain. I found a couple of good powder stashes off of Pioneer before making my way over to Jupiter. The terrain here was what I was looking for, steep with some good untouched powder. I definitely want to go back and explore the rest of Park City for the steeps and deeps.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 6 - Snowbasin, UT" vert="15,608ft" >}}
-Fresh powder at Snowbasin. Got 5 laps in Strawberry, keeping as close to the sisters area as possible. The new lift makes getting out of Strawberry significantly eaiser, although I hadn't done any other method than Lone Tree from the top of the gondola before.
+Fresh powder at Snowbasin. Got 5 laps in Strawberry, keeping as close to the sisters area as possible. The new lift makes getting out of Strawberry significantly easier, although I hadn't done any other method than Lone Tree from the top of the gondola before.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 7 - Solitude, UT" vert="8,248ft" >}}
@@ -120,12 +120,12 @@ Last day of the storm. Got a ton of fresh snow, bouncing around Collins, Wildcat
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 11 - Park City and Deer Valley, UT" vert="21,747ft" >}}
-On our way out of Utah we did a big split day between Park City and Deer Valley. Mariah had never skied Deer Valley or Park City before, so I wanted to show her around. At Park City, we stayed exlusively on the Canyons side, lapping Super Condor and Sun Peak. In Deer Valley, we did a tour of the entire mountain, riding everything we could in as short a time period as possible. This was a great way to end the Utah section of the trip.
+On our way out of Utah we did a big split day between Park City and Deer Valley. Mariah had never skied Deer Valley or Park City before, so I wanted to show her around. At Park City, we stayed exclusively on the Canyons side, lapping Super Condor and Sun Peak. In Deer Valley, we did a tour of the entire mountain, riding everything we could in as short a time period as possible. This was a great way to end the Utah section of the trip.
 {{< /expandable-box >}}
 
 #### Week 5
 
-Colorado skiing is great when you're not doing the I70 commute to and from Denver. Steamboat was a lot of fun to show Mariah and spending more time in Aspen was fun as well. There is a reason why it is cheaper to go to Europe than Colorado for a ski vacation though. Spending time in these flagship properties makes me appreiciate the more laid-back California resorts.
+Colorado skiing is great when you're not doing the I70 commute to and from Denver. Steamboat was a lot of fun to show Mariah and spending more time in Aspen was fun as well. There is a reason why it is cheaper to go to Europe than Colorado for a ski vacation though. Spending time in these flagship properties makes me appreciate the more laid-back California resorts.
 
 {{< image-gallery images="images/2024-02-14_copper_co.webp|Copper|View from Copper,images/2024-02-17_aspen_highlands_co.webp|Aspen Highlands|View from Aspen Highlands" >}}
 
@@ -142,7 +142,7 @@ Storm rolled in and we got some fresh powered at Copper. Spent the entire day on
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 15 - Breckenridge, CO" vert="12,378ft" >}}
-Blue sky day at Breckenridge. Hit every peak. Had a fun little suprise and the end of the day with the gondola being broken. Had to take a bus back to the village.
+Blue sky day at Breckenridge. Hit every peak. Had a fun little surprise and the end of the day with the gondola being broken. Had to take a bus back to the village.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 16 - Beaver Creek, CO" vert="18,760ft" >}}
@@ -154,7 +154,7 @@ I hiked the Highlands bowl with 18"+ of fresh snow. It was murder to get up ther
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 18 - Buttermilk, CO" vert="8,565ft" >}}
-Second day for our friend skiing was at beautiful Buttermilk. The mountain is known for it's beginner friendly terrain, and it didn't disapoint.
+Second day for our friend skiing was at beautiful Buttermilk. The mountain is known for it's beginner friendly terrain, and it didn't disappoint.
 {{< /expandable-box >}}
 
 #### Week 6
@@ -168,7 +168,7 @@ Bonus day skiing at Breckenridge! It was an absolutely beautiful day. Got a nice
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 20 - Crested Butte, CO" vert="11,605ft" >}}
-First day ever at Crested Butte. Really fun mountain with a lot of interesting terrain. Only did a single tbar lap this day, but got super excited with what I did in the North Face area.
+First day ever at Crested Butte. Really fun mountain with a lot of interesting terrain. Only did a single T-bar lap this day, but got super excited with what I did in the North Face area.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 21 - Crested Butte, CO" vert="10,745ft" >}}
@@ -202,7 +202,7 @@ I wanted to try a different, smaller resort, and since I was already in south we
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 27 - Keystone, CO" vert="12,347ft" >}}
-I drove to Taos, New Mexico after skiing Purgatory, with the expecation of being able to ski it in the morning. I woke up to 40+mph winds and the entire mountain being shut down. Called an audible and jumped in the truck and zoomed up to Keystone to keep my streak alive. Got in with 2 hours left in the day and 10"+ of fresh snow.
+I drove to Taos, New Mexico after skiing Purgatory, with the expectation of being able to ski it in the morning. I woke up to 40+mph winds and the entire mountain being shut down. Called an audible and jumped in the truck and zoomed up to Keystone to keep my streak alive. Got in with 2 hours left in the day and 10"+ of fresh snow.
 
 Explored the woods over on Wayback and then got some good laps in off Santiago. I'm glad I was able to explore some parts of this mountain and at some point I'll head back to Keystone to explore some of the other expert terrain that I wasn't able to get to.
 {{< /expandable-box >}}
@@ -216,7 +216,7 @@ This was my first time at Eldora. The mountain has some fun terrain, but it look
 {{< expandable-box title="February 29 - Vail, CO" vert="30,000ft" >}}
 Big day at Vail. Spent a ton of time getting into all the different back bowl. I found some really fun steeps off of Skyline and off of Orient. A lot of the other bowl runs were mellow and not a lot of fun. There was fresh snow to be had all day which was nice.
 
-I did end up breaking my Mantras while I was here. Catastrophic delamination of the titanal topsheet had me scrambling to find new skis.
+I did end up breaking my Mantras while I was here. Catastrophic delamination of the Titanal topsheet had me scrambling to find new skis.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 1 - Arapahoe Basin, CO" vert="13,154ft" >}}
@@ -236,14 +236,14 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 First week in Canada and exploring some new mountains and some old favorites. Lucked out with some amazing snow as well.
 
-{{< image-gallery images="images/2024-03-07_mount_norquay_ab.webp|Mount Norquay|View from Mount Norquay,images/2024-03-08_banff_sunshine_ab.webp|Gate to Delerium Dive|And they were never seen again,images/2024-03-09_lake_louise_ab.webp|Ice Skating on Lake Louise|So many cracks" >}}
+{{< image-gallery images="images/2024-03-07_mount_norquay_ab.webp|Mount Norquay|View from Mount Norquay,images/2024-03-08_banff_sunshine_ab.webp|Gate to Delirium Dive|And they were never seen again,images/2024-03-09_lake_louise_ab.webp|Ice Skating on Lake Louise|So many cracks" >}}
 
 {{< expandable-box title="March 4 - Fernie, BC" vert="10,076ft" >}}
 Pow day at Fernie. Had to call it early, so not a bunch of vert. Definitely want to go back.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 5 - Kimberley, BC" vert="16,943ft" >}}
-Chill day exploring the mountain. A lot of older lifts, and some fun terrain. Unfortunantely the storm that hit Fernie didn't hit Kimberly as much and it was dust on crust for a lot of it.
+Chill day exploring the mountain. A lot of older lifts, and some fun terrain. Unfortunately the storm that hit Fernie didn't hit Kimberly as much and it was dust on crust for a lot of it.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 6 - Panorama, BC" vert="22,141ft" >}}
@@ -255,7 +255,7 @@ The little mountain that everybody always sleeps on. This has some surprisingly 
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 8 - Banff Sunshine, AB" vert="13,145ft" >}}
-Got to play around with a lot more of what Sunshine Village has to offer for expert skiers than the last time I was there. Spent a lot of time exploring the Goats Eyes. Got a lap in on Delirum Dive. Was pretty epic to do the quick hike and then ski the entire mountain. Wasn't fun hiking out though.
+Got to play around with a lot more of what Sunshine Village has to offer for expert skiers than the last time I was there. Spent a lot of time exploring the Goats Eyes. Got a lap in on Delirium Dive. Was pretty epic to do the quick hike and then ski the entire mountain. Wasn't fun hiking out though.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 9 - Lake Louise, AB" vert="12,145ft" >}}
@@ -297,7 +297,7 @@ Big day hitting some fast groomers with Mariah.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 17 - Revelstoke, BC" vert="10,082ft" >}}
-Hiked subpeak with Mariah. Beautiful sunshine, we packed a light snack for up on top, and we also got some amazing snow off the top.
+Hiked Subpeak with Mariah. Beautiful sunshine, we packed a light snack for up on top, and we also got some amazing snow off the top.
 {{< /expandable-box >}}
 
 #### Week 10
@@ -311,11 +311,11 @@ It was pretty hot the day before and the snow had definitely solidified. Only gr
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 20 - Sun Peaks, BC" vert="10,585ft" >}}
-This is a weird mountain. Maybe it was just the season it was having, but the snow was really bad. There was some stuff that looked like it could be fun with more snow, and more steep to be had, but I never found anything that was truely interesting to me. Maybe I'll give it a chance the next time I'm road tripping across Canada. I don't think I'll go out of my way to go though
+This is a weird mountain. Maybe it was just the season it was having, but the snow was really bad. There was some stuff that looked like it could be fun with more snow, and more steep to be had, but I never found anything that was truly interesting to me. Maybe I'll give it a chance the next time I'm road tripping across Canada. I don't think I'll go out of my way to go though
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 21 - Whistler, BC" vert="27,238ft" >}}
-First day ever on Wistler in the winter. I've been a lot in the summer, going every summer growing up, but never skied it. It is big. There are huge, steep lines everywhere. It was amazing! I spent 100% of the day on the Whistler side, just getting acustomed to the mountain and finding where would be interesting to ski.
+First day ever on Whistler in the winter. I've been a lot in the summer, going every summer growing up, but never skied it. It is big. There are huge, steep lines everywhere. It was amazing! I spent 100% of the day on the Whistler side, just getting accustomed to the mountain and finding where would be interesting to ski.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 22 - Whistler, BC" vert="11,618ft" >}}
@@ -323,7 +323,7 @@ After the big day the day before, and the previous week of big days, I took a re
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 23 - Whistler, BC" vert="21,742ft" >}}
-Made my way to Blackcomb for the first time. Got a spankys lap and dropped into Ruby bowl as my first ever big line at Blackcomb. Also got Saudan with pretty decent conditions.
+Made my way to Blackcomb for the first time. Got a Spanky's lap and dropped into Ruby bowl as my first ever big line at Blackcomb. Also got Saudan with pretty decent conditions.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 24 - Whistler, BC" vert="11,897ft" >}}
@@ -362,7 +362,7 @@ Final days of Alaska and some skiing in the PNW.
 {{< image-gallery images="images/2024-04-02_alyeska_ak.webp|The Ocean - Alyeska|View from Alyeska,images/2024-04-05_timberline_or.webp|All the skis|View from Timberline" >}}
 
 {{< expandable-box title="April 1 - Alyeska, AK" vert="11,601ft" >}}
-More amazing snow. A lot less visibilty. Mainly lapped Glacier bowl for the faster lap times than the Tram.
+More amazing snow. A lot less visibility. Mainly lapped Glacier bowl for the faster lap times than the Tram.
 {{< /expandable-box >}}
 
 {{< expandable-box title="April 2 - Alyeska, AK" vert="30,141ft" >}}
@@ -370,11 +370,11 @@ Huge day. A lot of laps. Christmas Chute opened and got a couple laps. Most of t
 {{< /expandable-box >}}
 
 {{< expandable-box title="April 4 - Crystal, WA" vert="10,486ft" >}}
-First time in Washington. Crystal was a fun mountain with zero visibilty. Did a short day before heading south. These were also the first time I was on my Deacon 84s. Fun ski, but probably the wrong skis for the conditions.
+First time in Washington. Crystal was a fun mountain with zero visibility. Did a short day before heading south. These were also the first time I was on my Deacon 84s. Fun ski, but probably the wrong skis for the conditions.
 {{< /expandable-box >}}
 
 {{< expandable-box title="April 5 - Timberline, OR" vert="10,845ft" >}}
-Expored the mountain by myself. Got into some hairy situations when I accidently went out of bounds and ended up in a creek. Fresh snow, but not a lot of steep to use it.
+Explored the mountain by myself. Got into some hairy situations when I accidently went out of bounds and ended up in a creek. Fresh snow, but not a lot of steep to use it.
 {{< /expandable-box >}}
 
 #### Week 13
