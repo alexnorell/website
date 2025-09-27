@@ -33,7 +33,7 @@ We made the decission this year to do the road trip that we had been wanting to 
 1. Bachelor
 
 
-#### Week 1 
+#### Week 1
 
 We left San Jose Friday night and headed up to Tahoe for the weekend before continuing on to Boise.
 
@@ -98,7 +98,7 @@ Fresh powder at Snowbasin. Got 5 laps in Strawberry, keeping as close to the sis
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 7 - Solitude, UT" vert="8,248ft" >}}
-The storm continued and dropped 20"+ of fresh snow. I got a late afternoon session in, dropping into Parachute with waist deep untouched powder. 
+The storm continued and dropped 20"+ of fresh snow. I got a late afternoon session in, dropping into Parachute with waist deep untouched powder.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 8 - Alta, UT" vert="9,304ft" >}}
@@ -138,7 +138,7 @@ Blue sky day at Breckenridge. Hit every peak. Had a fun little suprise and the e
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 16 - Beaver Creek, CO" vert="18,760ft" >}}
-Storm rolled in and was dumping fresh snow. We rendezvoused with a friend for the holiday weekend, with the goal of getting her to into skiing. Mariah had a blast teaching her how to ski on the bunny hill, stopping in at the cookie cabin. I spent the morning lapping Grouse. In the afternoon we putzed around McCoy park. 
+Storm rolled in and was dumping fresh snow. We rendezvoused with a friend for the holiday weekend, with the goal of getting her to into skiing. Mariah had a blast teaching her how to ski on the bunny hill, stopping in at the cookie cabin. I spent the morning lapping Grouse. In the afternoon we putzed around McCoy park.
 {{< /expandable-box >}}
 
 {{< expandable-box title="February 17 - Aspen Highlands, CO" vert="6,022ft" >}}
@@ -183,7 +183,7 @@ Last day in Telluride and I spent most of it lapping some fast groomers and taki
 
 #### Week 7
 
-The last week in Colorado, and tons of stuff went sidewise, from storms shutting down resorts, to avalanches shutting down highways. I even broke my skis. 
+The last week in Colorado, and tons of stuff went sidewise, from storms shutting down resorts, to avalanches shutting down highways. I even broke my skis.
 
 {{< expandable-box title="February 26 - Purgatory, CO" vert="15,914ft" >}}
 I wanted to try a different, smaller resort, and since I was already in south western Colorado, Purgatory made sense to visit. The mountain was okay. I spent my day looking for steep things to ski that weren't super icy. Found myself over on Legends Express for most of the morning, and then lapping Purgatory Express for the rest of the day. There were some fun runs here, but nothing that makes me want to go back. The terrain was pretty boring in comparison to the amazing stuff I had been skiing all week.
@@ -210,7 +210,7 @@ I did end up breaking my Mantras while I was here. Catastrophic delamination of 
 {{< expandable-box title="March 1 - Arapahoe Basin, CO" vert="13,154ft" >}}
 Rented some Bent 100s for a couple days while my new skis were getting mounted. Spent a couple good days hitting up A-basin.
 
-Got a couple great runs in Zuma and a bunch of amazing runs off of Pallavicini. 
+Got a couple great runs in Zuma and a bunch of amazing runs off of Pallavicini.
 {{< /expandable-box >}}
 
 {{< expandable-box title="March 2 - Arapahoe Basin, CO" vert="8,988ft" >}}
@@ -224,152 +224,153 @@ Got a bunch of fast laps off Pallavicini before calling it and heading down to D
 
 First week in Canada and exploring some new mountains and some old favorites. Lucked out with some amazing snow as well.
 
-{{< expandable-box title="March 4 - Fernie, BC" vert="" >}}
-
+{{< expandable-box title="March 4 - Fernie, BC" vert="10,076ft" >}}
+Pow day at Fernie. Had to call it early, so not a bunch of vert. Definitely want to go back.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 5 - Kimberley, BC" vert="" >}}
-
+{{< expandable-box title="March 5 - Kimberley, BC" vert="16,943ft" >}}
+Chill day exploring the mountain. A lot of older lifts, and some fun terrain. Unfortunantely the storm that hit Fernie didn't hit Kimberly as much and it was dust on crust for a lot of it.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 6 - Panorama, BC" vert="" >}}
-
+{{< expandable-box title="March 6 - Panorama, BC" vert="22,141ft" >}}
+Such a fun, interesting hill. A ton of FAST groomers in the morning with serious speed. Other parts weren't fully filled in. Got into some stuff off the top after the snow softened mid day.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 7 - Mount Norquay, AB" vert="" >}}
-
+{{< expandable-box title="March 7 - Mount Norquay, AB" vert="16,653ft" >}}
+The little mountain that everybody always sleeps on. This has some surprisingly good terrain with nobody on it. I've always enjoyed the fun short days at Norquay.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 8 - Banff Sunshine, AB" vert="" >}}
-
+{{< expandable-box title="March 8 - Banff Sunshine, AB" vert="13,145ft" >}}
+Got to play around with a lot more of what Sunshine Village has to offer for expert skiers than the last time I was there. Spent a lot of time exploring the Goats Eyes. Got a lap in on Delirum Dive. Was pretty epic to do the quick hike and then ski the entire mountain. Wasn't fun hiking out though.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 9 - Lake Louise, AB" vert="" >}}
-
+{{< expandable-box title="March 9 - Lake Louise, AB" vert="12,145ft" >}}
+Epic day at Lake Louise. Got to hit a bunch of expert stuff that I was too chicken to hit the first time I was there. Did most of the letter chutes.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 10 - Lake Louise, AB" vert="" >}}
-
+{{< expandable-box title="March 10 - Lake Louise, AB" vert="11,836ft" >}}
+Another day great day at Lake Louise. Snow wasn't as good, but still had a lot of fun.
 {{< /expandable-box >}}
 
 #### Week 9
 
 The week I was waiting for all trip. I found a new favorite mountain and explored even more of one of my other favorites.
 
-{{< expandable-box title="March 11 - Kicking Horse, BC" vert="" >}}
-
+{{< expandable-box title="March 11 - Kicking Horse, BC" vert="23,814ft" >}}
+Kicking Horse is everything I want in a mountain and more. Top to bottom, great skiing. Amazing Chutes. Amazing Snow on top. No lines. Also, met the Slopes developer on the gondola.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 12 - Kicking Horse, BC" vert="" >}}
-
+{{< expandable-box title="March 12 - Kicking Horse, BC" vert="16,448ft" >}}
+Another day in Paradise. Got to show Mariah around the mountain and did a little hike with her.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 13 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 13 - Revelstoke, BC" vert="21,998ft" >}}
+Fresh snow at Revelstoke. First time having the courage to do the lemming line. Got some great turns in the backside.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 14 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 14 - Revelstoke, BC" vert="20,138ft" >}}
+Hiked Subpeak for the first time. Absolutely amazing.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 15 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 15 - Revelstoke, BC" vert="14,985ft" >}}
+First time on the lemming line with Mariah. Still amazing snow from the storm.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 16 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 16 - Revelstoke, BC" vert="21,407ft" >}}
+Big day hitting some fast groomers with Mariah.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 17 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 17 - Revelstoke, BC" vert="10,082ft" >}}
+Hiked subpeak with Mariah. Beautiful sunshine, we packed a light snack for up on top, and we also got some amazing snow off the top.
 {{< /expandable-box >}}
 
 #### Week 10
 
 Third week in Canada and a couple new mountains. Saying goodbye to Revelstoke was hard, but saying hello to Whistler was amazing. I grew up going to Whistler in the summer, but never had the chance to go skiing there. The mountain is amazing and I lucked out with multiple powder days during our stay there.
 
-{{< expandable-box title="March 18 - Revelstoke, BC" vert="" >}}
-
+{{< expandable-box title="March 18 - Revelstoke, BC" vert="14,189ft" >}}
+It was pretty hot the day before and the snow had definitely solidified. Only groomers on this day. A lot of fast skiing, and even some ice burn from a fast, long fall.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 20 - Sun Peaks, BC" vert="" >}}
-
+{{< expandable-box title="March 20 - Sun Peaks, BC" vert="10,585ft" >}}
+This is a weird mountain. Maybe it was just the season it was having, but the snow was really bad. There was some stuff that looked like it could be fun with more snow, and more steep to be had, but I never found anything that was truely interesting to me. Maybe I'll give it a chance the next time I'm road tripping across Canada. I don't think I'll go out of my way to go though
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 21 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 21 - Whistler, BC" vert="27,238ft" >}}
+First day ever on Wistler in the winter. I've been a lot in the summer, going every summer growing up, but never skied it. It is big. There are huge, steep lines everywhere. It was amazing! I spent 100% of the day on the Whistler side, just getting acustomed to the mountain and finding where would be interesting to ski.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 22 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 22 - Whistler, BC" vert="11,618ft" >}}
+After the big day the day before, and the previous week of big days, I took a rest day and just worked some drills in the training area on the Whistler side. Did some one ski drills and learned how to carve backwards.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 23 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 23 - Whistler, BC" vert="21,742ft" >}}
+Made my way to Blackcomb for the first time. Got a spankys lap and dropped into Ruby bowl as my first ever big line at Blackcomb. Also got Saudan with pretty decent conditions.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 24 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 24 - Whistler, BC" vert="11,897ft" >}}
+Showed Mariah around and took it easy. She got hurt in Revelstoke so she's been taking it easy.
 {{< /expandable-box >}}
 
 #### Week 11
 
 More Whistler, heading home to the USA, and a trip to Alaska! We had never been to Alaska and we were really excited to get up and check out Alyeska.
 
-{{< expandable-box title="March 25 - Whistler, BC" vert="" >}}
+{{< expandable-box title="March 25 - Whistler, BC" vert="15,479ft" >}}
+Very wet pow day fully on the Blackcomb side. A couple of Spanky's laps and a lot of groomers.
+{{< /expandable-box >}}
+
+{{< expandable-box title="March 26 - Whistler, BC" vert="24,054ft" >}}
+Pow day! A couple of Spanky's runs and a Cougar chute lap.
 
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 26 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 27 - Whistler, BC" vert="30,865ft" >}}
+Another huge day. Fresh snow, and a lot of laps. Everything on the Whistler side, with a bunch of laps on both Peak chair and Symphony chair.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 27 - Whistler, BC" vert="" >}}
-
+{{< expandable-box title="March 30 - Alyeska, AK" vert="11,566ft" >}}
+First day in Alaska. Absolutely amazing conditions. Got two amazing tram laps before calling it for the day.
 {{< /expandable-box >}}
 
-{{< expandable-box title="March 30 - Alyeska, AK" vert="" >}}
-
-{{< /expandable-box >}}
-
-{{< expandable-box title="March 31 - Alyeksa, AK" vert="" >}}
-
+{{< expandable-box title="March 31 - Alyeksa, AK" vert="13,271ft" >}}
+Nonstop pow. Every run was down the tramline. Every line had fresh snow.
 {{< /expandable-box >}}
 
 #### Week 12
 
 Final days of Alaska and some skiing in the PNW.
 
-{{< expandable-box title="April 1 - Alyeska, AK" vert="" >}}
-
+{{< expandable-box title="April 1 - Alyeska, AK" vert="11,601ft" >}}
+More amazing snow. A lot less visibilty. Mainly lapped Glacier bowl for the faster lap times than the Tram.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 2 - Alyeska, AK" vert="" >}}
-
+{{< expandable-box title="April 2 - Alyeska, AK" vert="30,141ft" >}}
+Huge day. A lot of laps. Christmas Chute opened and got a couple laps. Most of the other chutes off the top opened up and, and with a bunch of fresh snow. Absolutely killer day.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 4 - Crystal, WA" vert="" >}}
-
+{{< expandable-box title="April 4 - Crystal, WA" vert="10,486ft" >}}
+First time in Washington. Crystal was a fun mountain with zero visibilty. Did a short day before heading south. These were also the first time I was on my Deacon 84s. Fun ski, but probably the wrong skis for the conditions.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 5 - Timberline, OR" vert="" >}}
-
+{{< expandable-box title="April 5 - Timberline, OR" vert="10,845ft" >}}
+Expored the mountain by myself. Got into some hairy situations when I accidently went out of bounds and ended up in a creek. Fresh snow, but not a lot of steep to use it.
 {{< /expandable-box >}}
 
 #### Week 13
 
 Finals week of the road trip and a stop in Bend for a few days at Bachelor on the way home.
 
-{{< expandable-box title="April 8 - Mount Bachelor, OR" vert="" >}}
-
+{{< expandable-box title="April 8 - Mount Bachelor, OR" vert="14,561ft" >}}
+First time skiing at Bachelor as an adult. Very fun mountain with a ton to offer. Mainly ripped groomers on my fast skis.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 9 - Mount Bachelor, OR" vert="" >}}
-
+{{< expandable-box title="April 9 - Mount Bachelor, OR" vert="21,495ft" >}}
+They opened up the top and I was finally able to get up there and ski down some of the steeper stuff. Very fast snow, but a lot of fun. Hiked the peak at the end of the day. Snow wasn't amazing, but was still a great view.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 10 - Mount Bachelor, OR" vert="" >}}
-
+{{< expandable-box title="April 10 - Mount Bachelor, OR" vert="25,695ft" >}}
+Fast groomers with some backside exploration. Blue skies and warm temps. True spring skiing.
 {{< /expandable-box >}}
 
 
@@ -377,55 +378,58 @@ Finals week of the road trip and a stop in Bend for a few days at Bachelor on th
 
 The goal was to get all the skiing in at each resort before they shut down for the season. I missed going to Northstar by one day, by flipping which mountain I went to that Sunday. Ended up having a blast though.
 
-{{< expandable-box title="April 12 - Kirkwood, CA" vert="" >}}
-
+{{< expandable-box title="April 12 - Kirkwood, CA" vert="17,198ft" >}}
+First time at Kirkwood in over a decade. Absolutely awesome mountain. Will go back a bunch when I'm in California. Did a few hike-to lines and got some pretty nice runs.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 13 - Heavenly, CA" vert="" >}}
-
+{{< expandable-box title="April 13 - Heavenly, CA" vert="26,591ft" >}}
+Back where the trip started. Watched the pond skim for a few minutes. Was just rocking the Deacons and going for fast, fun groomers. Prefect thing for Heavenly.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 14 - Palisades, CA" vert="" >}}
-
+{{< expandable-box title="April 14 - Palisades, CA" vert="31,133ft" >}}
+Had a fun day just ripping around Palisades. Nothing special, just hitting some groomers that I had never bothered to go to before.
 {{< /expandable-box >}}
 
-{{< expandable-box title="April 15 - Palisades, CA" vert="" >}}
-
+{{< expandable-box title="April 15 - Palisades, CA" vert="10,816ft" >}}
+Short day hitting some late season turns.
 {{< /expandable-box >}}
 
 ### Trip to Utah
 
 Mariah had a conference in Utah she needed to go to, so I tagged along to get a few more days in Utah. We ended up catching a huge late season storm on our way back to California which was great.
 
-{{< expandable-box title="April 28 - Alpine Meadows, CA" vert="" >}}
-
+{{< expandable-box title="April 28 - Alpine Meadows, CA" vert="11,786ft" >}}
+End of the season for Alpine celebration. Just some groomers before heading out to Utah.
 {{< /expandable-box >}}
 
-{{< expandable-box title="May 1 - Snowbird, UT" vert="" >}}
-
+{{< expandable-box title="May 1 - Snowbird, UT" vert="30,737ft" >}}
+Huge, bluebird day at the the bird! Got a little bit of everything in.
 {{< /expandable-box >}}
 
-{{< expandable-box title="May 2 - Snowbird and Solitude, UT" vert="" >}}
-
+{{< expandable-box title="May 2 - Snowbird and Solitude, UT" vert="25,288ft" >}}
+Spent the morning ripping on the topside at Snowbird. Decided to do a Cirque run, and the tram shuts down. Instead of giving up, I headed over to Solitude to finish up the day and ripped around doing a lot of really fun, fast laps.
 {{< /expandable-box >}}
 
-{{< expandable-box title="May 3 - Snowbird, UT" vert="" >}}
-
+{{< expandable-box title="May 3 - Snowbird, UT" vert="30,798ft" >}}
+They got the tram back up again, just in time for a fresh storm. Got a bunch of amazing runs off the cirque and in Mineral Basin with fresh snow!
 {{< /expandable-box >}}
 
-{{< expandable-box title="May 4 - Snowbird, UT" vert="" >}}
-
+{{< expandable-box title="May 4 - Snowbird, UT" vert="10,774ft" >}}
+The snow solidified and it was an ice fest for anything no groomed. Did my 10k and headed back to home...
 {{< /expandable-box >}}
 
-{{< expandable-box title="May 5 - Palisades, CA" vert="" >}}
-
+{{< expandable-box title="May 5 - Palisades, CA" vert="14,030ft" >}}
+...until the pass shut down! We got stuck in Truckee and decided to hit the storm. 1hr lift lines, but amazing snow with waist deep powder in some spots. It was awesome!
 {{< /expandable-box >}}
 
 ### Mammoth
 
 End of the season with a spring day in Mammoth.
 
-{{< expandable-box title="May 16 - Mammoth, CA" vert="" >}}
-
+{{< expandable-box title="May 16 - Mammoth, CA" vert="27,911ft" >}}
+My best day at Mammoth yet, and so late into the season. Everything was open, got some great runs on lines that I would have been too scared to hit in a previous years.
 {{< /expandable-box >}}
 
+## Wrap up
+
+This was a life-changing year of skiing for me. I was able to live out a dream I'd been having for a while; quitting my job, packing up the truck, and just going skiing for the season. I couldn't have done this trip without my wife, both for her support as my sugar-momma, but also as my companion on the trip. I hope 80 days and 1.3M vert in a season isn't my high-water maker. 40 mountains in a year might be the most I'll do in a year again though. A lot of amazing places that I'm so glad to have been able to go to, and all in 1 year!
